@@ -1,0 +1,68 @@
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.DataAccessLayer.deps.json
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.DataAccessLayer.runtimeconfig.json
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.DataAccessLayer.dll
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.DataAccessLayer.pdb
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.Entity.dll
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.Entity.pdb
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.AssemblyInfo.cs
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelPro.61274476.Up2Date
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.dll
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\refint\HotelProject.DataAccessLayer.dll
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.pdb
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.genruntimeconfig.cache
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\ref\HotelProject.DataAccessLayer.dll
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.DataAccessLayer.deps.json
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.DataAccessLayer.runtimeconfig.json
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.DataAccessLayer.dll
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.DataAccessLayer.pdb
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.Entity.dll
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.Entity.pdb
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelPro.61274476.Up2Date
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.dll
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\refint\HotelProject.DataAccessLayer.dll
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.pdb
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.genruntimeconfig.cache
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\ref\HotelProject.DataAccessLayer.dll
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.DataAccessLayer.deps.json
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.DataAccessLayer.runtimeconfig.json
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.DataAccessLayer.dll
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.DataAccessLayer.pdb
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.Entity.dll
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.Entity.pdb
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelPro.61274476.Up2Date
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.dll
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\refint\HotelProject.DataAccessLayer.dll
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.pdb
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.genruntimeconfig.cache
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\ref\HotelProject.DataAccessLayer.dll
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.DataAccessLayer.deps.json
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.DataAccessLayer.runtimeconfig.json
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.DataAccessLayer.dll
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.DataAccessLayer.pdb
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.Entity.dll
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.Entity.pdb
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelPro.61274476.Up2Date
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.dll
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\refint\HotelProject.DataAccessLayer.dll
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.pdb
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.genruntimeconfig.cache
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\ref\HotelProject.DataAccessLayer.dll

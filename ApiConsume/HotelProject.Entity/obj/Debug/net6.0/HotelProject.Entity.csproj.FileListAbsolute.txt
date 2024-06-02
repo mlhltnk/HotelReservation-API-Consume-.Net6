@@ -1,0 +1,56 @@
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.Entity\bin\Debug\net6.0\HotelProject.Entity.deps.json
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.Entity\bin\Debug\net6.0\HotelProject.Entity.runtimeconfig.json
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.Entity\bin\Debug\net6.0\HotelProject.Entity.dll
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.Entity\bin\Debug\net6.0\HotelProject.Entity.pdb
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.csproj.AssemblyReference.cache
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.AssemblyInfoInputs.cache
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.AssemblyInfo.cs
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.csproj.CoreCompileInputs.cache
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.dll
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\refint\HotelProject.Entity.dll
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.pdb
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.genruntimeconfig.cache
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\ref\HotelProject.Entity.dll
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.Entity\bin\Debug\net6.0\HotelProject.Entity.deps.json
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.Entity\bin\Debug\net6.0\HotelProject.Entity.runtimeconfig.json
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.Entity\bin\Debug\net6.0\HotelProject.Entity.dll
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.Entity\bin\Debug\net6.0\HotelProject.Entity.pdb
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.csproj.AssemblyReference.cache
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.AssemblyInfoInputs.cache
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.AssemblyInfo.cs
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.dll
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\refint\HotelProject.Entity.dll
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.pdb
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.genruntimeconfig.cache
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\ref\HotelProject.Entity.dll
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.Entity\bin\Debug\net6.0\HotelProject.Entity.deps.json
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.Entity\bin\Debug\net6.0\HotelProject.Entity.runtimeconfig.json
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.Entity\bin\Debug\net6.0\HotelProject.Entity.dll
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.Entity\bin\Debug\net6.0\HotelProject.Entity.pdb
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.csproj.AssemblyReference.cache
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.AssemblyInfoInputs.cache
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.AssemblyInfo.cs
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.dll
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\refint\HotelProject.Entity.dll
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.pdb
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.genruntimeconfig.cache
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\ref\HotelProject.Entity.dll
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.Entity\bin\Debug\net6.0\HotelProject.Entity.deps.json
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.Entity\bin\Debug\net6.0\HotelProject.Entity.runtimeconfig.json
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.Entity\bin\Debug\net6.0\HotelProject.Entity.dll
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.Entity\bin\Debug\net6.0\HotelProject.Entity.pdb
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.csproj.AssemblyReference.cache
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.AssemblyInfoInputs.cache
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.AssemblyInfo.cs
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.dll
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\refint\HotelProject.Entity.dll
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.pdb
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.genruntimeconfig.cache
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.Entity\obj\Debug\net6.0\ref\HotelProject.Entity.dll

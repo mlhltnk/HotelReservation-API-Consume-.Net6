@@ -1,0 +1,68 @@
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.deps.json
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.runtimeconfig.json
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.dll
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.pdb
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.Entity.dll
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.Entity.pdb
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.csproj.AssemblyReference.cache
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.AssemblyInfo.cs
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelPro.8E3252AA.Up2Date
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.dll
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\refint\HotelProject.DtoLayer.dll
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.pdb
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.genruntimeconfig.cache
+C:\Users\melihaltunok\Desktop\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\ref\HotelProject.DtoLayer.dll
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.deps.json
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.runtimeconfig.json
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.dll
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.pdb
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.Entity.dll
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.Entity.pdb
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.csproj.AssemblyReference.cache
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.AssemblyInfo.cs
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelPro.8E3252AA.Up2Date
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.dll
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\refint\HotelProject.DtoLayer.dll
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.pdb
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.genruntimeconfig.cache
+C:\Users\Melih\Desktop\.NetCore API( Murat yücedağ))\.NetCore API( Murat yücedağ))\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\ref\HotelProject.DtoLayer.dll
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.deps.json
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.runtimeconfig.json
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.dll
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.pdb
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.Entity.dll
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.Entity.pdb
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.csproj.AssemblyReference.cache
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.AssemblyInfo.cs
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelPro.8E3252AA.Up2Date
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.dll
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\refint\HotelProject.DtoLayer.dll
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.pdb
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.genruntimeconfig.cache
+C:\Users\Melih\Desktop\Github\MyUdemyProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\ref\HotelProject.DtoLayer.dll
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.deps.json
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.runtimeconfig.json
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.dll
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.pdb
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.Entity.dll
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.Entity.pdb
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.csproj.AssemblyReference.cache
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.AssemblyInfo.cs
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelPro.8E3252AA.Up2Date
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.dll
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\refint\HotelProject.DtoLayer.dll
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.pdb
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.genruntimeconfig.cache
+C:\Users\Melih\Desktop\Github\.NetCore API( Murat yücedağ))\HotelReservation-API-APIConsume\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\ref\HotelProject.DtoLayer.dll

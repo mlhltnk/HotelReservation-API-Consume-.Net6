@@ -1,0 +1,70 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+
+@await Component.InvokeAsync("_HeadComponent")         @*VİEWCOMPONENT TANIMI*@
+
+<body>
+<div class="container-xxl bg-white p-0">
+
+<!-- Spinner Start -->
+@await Component.InvokeAsync("_SpinnerComponent") @*VİEWCOMPONENT TANIMI*@
+<!-- Spinner End -->
+
+<!-- Header Start -->
+@await Component.InvokeAsync("_NavbarComponent") @*VİEWCOMPONENT TANIMI*@
+<!-- Header End -->
+
+<!-- Carousel Start -->
+@await Component.InvokeAsync("_SliderComponent") @*VİEWCOMPONENT TANIMI*@
+<!-- Carousel End -->
+
+<!-- Booking Start -->
+@* @await Component.InvokeAsync("_ReservationComponent") VİEWCOMPONENT TANIMI*@ 
+<!-- Booking End -->
+
+<!-- About Start -->
+        @await Component.InvokeAsync("_AboutUsComponent") @*VİEWCOMPONENT TANIMI*@
+<!-- About End -->
+
+<!-- Room Start -->
+@await Component.InvokeAsync("_OurRoomsComponent") @*VİEWCOMPONENT TANIMI*@
+<!-- Room End -->
+
+<!-- Video Start -->
+@await Component.InvokeAsync("_TrailerComponent") @*VİEWCOMPONENT TANIMI*@
+<!-- Video Start -->
+
+<!-- Service Start -->
+@await Component.InvokeAsync("_ServiceComponent") @*VİEWCOMPONENT TANIMI*@
+<!-- Service End -->
+
+<!-- Testimonial Start -->
+@await Component.InvokeAsync("_TestimonialComponent") @*VİEWCOMPONENT TANIMI*@
+<!-- Testimonial End -->
+
+<!-- Team Start -->
+        @await Component.InvokeAsync("_TeamComponent") @*VİEWCOMPONENT TANIMI*@
+<!-- Team End -->
+
+<!-- Newsletter Start -->
+@await Html.PartialAsync("SubscribePartial")   @*Partialview TANIMI*@
+<!-- Newsletter Start -->
+
+<!-- Footer Start -->
+        @await Component.InvokeAsync("_FooterComponent") @*VİEWCOMPONENT TANIMI*@
+<!-- Footer End -->
+
+<!-- Back to Top -->
+<a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+</div>
+
+    <!-- JavaScript Libraries -->
+    @await Component.InvokeAsync("_ScriptsComponent") @*VİEWCOMPONENT TANIMI*@
+</body>
+
+</html>
